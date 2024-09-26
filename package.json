@@ -6,6 +6,7 @@
     "dev": "nodemon script.js"
   },
   "keywords": [],
+  "type": "module",
   "author": "",
   "license": "ISC",
   "description": "",
